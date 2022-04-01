@@ -40,15 +40,15 @@ if you want to know more about text structure [[4]](#references),
 
 # References<a name="references"></a>
 
-[1] Nielsen and Chuang [Book](https://tinyurl.com/y842t3ck){target="_blank"}
+[1] Nielsen and Chuang [Book](https://tinyurl.com/y842t3ck "target="_blank")
 
-[2] ArXiv [1906.07682](https://arxiv.org/pdf/1906.07682.pdf){:target="_blank"}
+[2] ArXiv [1906.07682](https://arxiv.org/pdf/1906.07682.pdf "target="_blank)
 
 [3] <a href="https://tinyurl.com/yd6n83fa" target="_blank">Lambeq</a>, 
 check the <a href="https://cqcl.github.io/lambeq/" target="_blank" rel="noopener noreferrer">documentation</a>, repositories in the next section.
 
 
-[4] [https://arxiv.org/pdf/1904.03478.pdf](https://arxiv.org/pdf/1904.03478.pdf){:target="_blank"}
+[4] [https://arxiv.org/pdf/1904.03478.pdf](https://arxiv.org/pdf/1904.03478.pdf target="_blank")
 
 <!--
 [1] [](){:target="_blank"}
