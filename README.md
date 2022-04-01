@@ -40,15 +40,15 @@ if you want to know more about text structure [[4]](#references),
 
 # References<a name="references"></a>
 
-[1] Nielsen and Chuang [Book](https://tinyurl.com/y842t3ck "target="_blank")
+[1] Nielsen and Chuang [Book](https://tinyurl.com/y842t3ck)
 
-[2] ArXiv [1906.07682](https://arxiv.org/pdf/1906.07682.pdf "target="_blank)
+[2] ArXiv [1906.07682](https://arxiv.org/pdf/1906.07682.pdf)
 
 [3] <a href="https://tinyurl.com/yd6n83fa" target="_blank">Lambeq</a>, 
 check the <a href="https://cqcl.github.io/lambeq/" target="_blank" rel="noopener noreferrer">documentation</a>, repositories in the next section.
 
 
-[4] [https://arxiv.org/pdf/1904.03478.pdf](https://arxiv.org/pdf/1904.03478.pdf target="_blank")
+[4] [https://arxiv.org/pdf/1904.03478.pdf](https://arxiv.org/pdf/1904.03478.pdf)
 
 <!--
 [1] [](){:target="_blank"}
@@ -57,11 +57,10 @@ check the <a href="https://cqcl.github.io/lambeq/" target="_blank" rel="noopener
 -->
 ## Other materials
 [1] [Cambridge Quantum](https://cqwbkpro.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/11/24115346/CAMBRIDGE_QUANTUM_QNLP.pdf)
-{:target="_blank"}
 
-[2] [How does lambeq work?](https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-ii-6b6a44b319b2){:target="_blank"}. 
-Check the [repository](https://github.com/CQCL/lambeq){:target="_blank"}
 
-[3] [QNLP post](https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d){:target="_blank"}, one application [repository](https://github.com/oxford-quantum-group/discopy/blob/ab2b356bd3cad1dfb55ca6606d6c4b4181fe590c/notebooks/qnlp-experiment.ipynb){:target="_blank"}
+[2] [How does lambeq work?](https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-ii-6b6a44b319b2).  Check the [repository](https://github.com/CQCL/lambeq)
 
-[4] [Workshop](https://quantumweek2020.cambridgequantum.com/qnlp.html){:target="_blank"}
+[3] [QNLP post](https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d), one application [repository](https://github.com/oxford-quantum-group/discopy/blob/ab2b356bd3cad1dfb55ca6606d6c4b4181fe590c/notebooks/qnlp-experiment.ipynb)
+
+[4] [Workshop](https://quantumweek2020.cambridgequantum.com/qnlp.html)
