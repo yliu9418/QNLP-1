@@ -39,11 +39,14 @@ if you want to know more about text structure [[4]](#references),
 
 
 # References<a name="references"></a>
-[1] [Nielsen and Chuang Book](https://www.google.com/books/edition/Quantum_Computation_and_Quantum_Informat/aai-P4V9GJ8C?hl=en&gbpv=0){:target="_blank"}
 
-[2] [https://arxiv.org/pdf/1906.07682.pdf](https://arxiv.org/pdf/1906.07682.pdf){:target="_blank"}
+[1] Nielsen and Chuang [Book](https://tinyurl.com/y842t3ck){:target="_blank"}
+
+[2] ArXiv [1906.07682](https://arxiv.org/pdf/1906.07682.pdf){:target="_blank"}
 
 [3] [Lambeq](https://www.researchgate.net/publication/355225410_lambeq_An_Efficient_High-Level_Python_Library_for_Quantum_NLP){:target="_blank"}, check the [documentation]( https://cqcl.github.io/lambeq/){:target="_blank"}, repositories in the next section.
+
+[test] <a href="https://tinyurl.com/yd6n83fa" target="_blank" rel="noopener noreferrer">Lambeq</a>
 
 [4] [https://arxiv.org/pdf/1904.03478.pdf](https://arxiv.org/pdf/1904.03478.pdf){:target="_blank"}
 
