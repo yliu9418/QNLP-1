@@ -40,7 +40,7 @@ if you want to know more about text structure [[4]](#references),
 
 # References<a name="references"></a>
 
-[1] Nielsen and Chuang [Book](https://tinyurl.com/y842t3ck){:target="_blank"}
+[1] Nielsen and Chuang [Book](https://tinyurl.com/y842t3ck){target="_blank"}
 
 [2] ArXiv [1906.07682](https://arxiv.org/pdf/1906.07682.pdf){:target="_blank"}
 
