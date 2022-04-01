@@ -44,9 +44,9 @@ if you want to know more about text structure [[4]](#references),
 
 [2] ArXiv [1906.07682](https://arxiv.org/pdf/1906.07682.pdf){:target="_blank"}
 
-[3] [Lambeq](https://www.researchgate.net/publication/355225410_lambeq_An_Efficient_High-Level_Python_Library_for_Quantum_NLP){:target="_blank"}, check the [documentation]( https://cqcl.github.io/lambeq/){:target="_blank"}, repositories in the next section.
+[3] <a href="https://tinyurl.com/yd6n83fa" target="_blank">Lambeq</a>, 
+check the <a href="https://cqcl.github.io/lambeq/" target="_blank" rel="noopener noreferrer">documentation</a>, repositories in the next section.
 
-[test] <a href="https://tinyurl.com/yd6n83fa" target="_blank" rel="noopener noreferrer">Lambeq</a>
 
 [4] [https://arxiv.org/pdf/1904.03478.pdf](https://arxiv.org/pdf/1904.03478.pdf){:target="_blank"}
 
