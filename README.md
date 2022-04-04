@@ -13,11 +13,8 @@ you find useful for your careeers.
 ## Contents
 1. [Instructions](#instructions)
 1. [Introduction](#intro)
-1. [What does mean QC?](#wthQCmeans)
-1. [Expectations](#expectations)
-1. [Implementations](#implementations)
+1. [Implementation](#implementation)
 1. [References](#references)
-
 
 
 # Instructions<a name="instructions"></a>
@@ -31,11 +28,28 @@ consider that on NLP, quantum computing topics are out of the scope of the cours
 To check quantum computing concepts, check Nielsen and Chuang book [[1]](#references), to know how parameterized in quantum circuits [[2]](#references), some QNLP tools can be found in ref. [[3]](#references)
 if you want to know more about text structure [[4]](#references), 
 
+## Purpose
+
+The main goal in these sessions is to create a QNLP collaborative repository, therefore you should clone and work with Pull Request.
+
+# Introduction<a name="intro"></a>
 
 
 
+Quantum computing is an interesting field to work. It is an area with some applications and it can be powerful if it is combined with Machine Learning area.
+Recently, we can explore applications on several topics such as computer vision, cybersecurity, economy, finance, science and others.
+In particular, this repository is to create an interesting and repository on QNLP to help your career on the next generation of scientists.
 
 
+Consider this a recent topic and it very probably you have a lot questions without solve, but don't worry, it is part to be a scientist.
+
+
+# Implementation<a name="instructions"></a>
+
+Create your and NB into the examples folder, and try to explain every step. 
+Don't forget to write your name and your contributor names.
+
+Use readme.md into the examples folder to provide a summary.
 
 
 # References<a name="references"></a>
