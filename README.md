@@ -77,11 +77,7 @@ check the <a href="https://cqcl.github.io/lambeq/" target="_blank" rel="noopener
 
 [4] [https://arxiv.org/pdf/1904.03478.pdf](https://arxiv.org/pdf/1904.03478.pdf)
 
-<!--
-[1] [](){:target="_blank"}
-[1] [](){:target="_blank"}
-[1] [](){:target="_blank"}
--->
+
 ## Other materials
 [1] [Cambridge Quantum](https://cqwbkpro.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/11/24115346/CAMBRIDGE_QUANTUM_QNLP.pdf)
 
@@ -91,3 +87,17 @@ check the <a href="https://cqcl.github.io/lambeq/" target="_blank" rel="noopener
 [3] [QNLP post](https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d), one application [repository](https://github.com/oxford-quantum-group/discopy/blob/ab2b356bd3cad1dfb55ca6606d6c4b4181fe590c/notebooks/qnlp-experiment.ipynb)
 
 [4] [Workshop](https://quantumweek2020.cambridgequantum.com/qnlp.html)
+
+[5] A Quantum Natural Language Processing Approach to Musical Intelligence[https://arxiv.org/abs/2111.06741](https://arxiv.org/abs/2111.06741)
+
+[6] lambeq: An Efficient High-Level Python Library for Quantum NLP [https://arxiv.org/abs/2110.04236](https://arxiv.org/abs/2110.04236)
+
+[7] QNLP in Practice: Running Compositional Models of Meaning on a Quantum Computer [https://arxiv.org/abs/2102.12846](https://arxiv.org/abs/2102.12846)
+
+[8] Grammar-Aware Question-Answering on Quantum Computers [https://arxiv.org/abs/2012.03756](https://arxiv.org/abs/2012.03756)
+
+[9] A hybrid classical-quantum workflow for natural language processing [https://arxiv.org/abs/2004.06800](https://arxiv.org/abs/2004.06800)
+
+[10] Developing Quantum Annealer Driven Data Discovery [https://arxiv.org/abs/1603.07980](https://arxiv.org/abs/1603.07980)
+
+[11] A gentle introduction to Quantum Natural Language Processing [https://arxiv.org/abs/2202.11766](https://arxiv.org/abs/2202.11766)
