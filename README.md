@@ -49,7 +49,9 @@ Consider this a recent topic and it very probably you have a lot questions witho
 Create your and NB into the examples folder, and try to explain every step. 
 Don't forget to write your name and your contributor names.
 
-Use readme.md into the examples folder to provide a summary.
+- Use readme.md into the examples folder to provide a summary.
+- Use Pull Request to maintain this repository with the last version, when you send the PR, put my user name (jaorduz) to approve the work.
+This is a link to know how to work with PR [PR's (A)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), [PR's (B)](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github), and [ISSUES](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request).
 
 
 # References<a name="references"></a>
