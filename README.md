@@ -4,6 +4,8 @@
 [license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
 [![CC License][license-badge]][license]
 
+[![PyPI downloads](https://github.com/jaorduz/QNLP)](https://github.com/jaorduz/QNLP)
+
 
 This repository contains information about NLP course, in particular, I share QNLP material, I hope 
 you find useful for your careeers.
@@ -27,6 +29,8 @@ consider that on NLP, quantum computing topics are out of the scope of the cours
 
 To check quantum computing concepts, go to Nielsen and Chuang book [[1]](#references); to know how parameterized in quantum circuits, and Circuit Ansatz [[2]](#references), some QNLP tools can be found in ref. [[3]](#references)
 if you want to know more about text structure [[4]](#references), 
+
+
 
 ## Purpose
 
@@ -55,14 +59,18 @@ Consider those links don't depend on me, those can be broken but I can not do an
 
 
 
-# Implementation<a name="instructions"></a>
+# Implementation: assignment<a name="instructions"></a>
 
-Create your and NB into the examples folder, and try to explain every step. 
-Don't forget to write your name and your contributor names.
+Create your and NB into the examples folder, and try to explain every step (as a tutorial). 
+Don't forget to write your name and your contributor names. You can convert your NB to HTML or anyother format (pandoc).
+I share some websites with information (some references [[12, 13]](#references)), you can use but be creative.
+
+
 
 - Use readme.md into the examples folder to provide a summary.
 - Use Pull Request to maintain this repository with the last version, when you send the PR, put my user name (jaorduz) to approve the work.
 This is a link to know how to work with PR [PR's (A)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), [PR's (B)](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github), and [ISSUES](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request).
+
 
 
 # References<a name="references"></a>
@@ -79,6 +87,7 @@ check the <a href="https://cqcl.github.io/lambeq/" target="_blank" rel="noopener
 
 
 ## Other materials
+
 [1] [Cambridge Quantum](https://cqwbkpro.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/11/24115346/CAMBRIDGE_QUANTUM_QNLP.pdf)
 
 
@@ -101,3 +110,7 @@ check the <a href="https://cqcl.github.io/lambeq/" target="_blank" rel="noopener
 [10] Developing Quantum Annealer Driven Data Discovery [https://arxiv.org/abs/1603.07980](https://arxiv.org/abs/1603.07980)
 
 [11] A gentle introduction to Quantum Natural Language Processing [https://arxiv.org/abs/2202.11766](https://arxiv.org/abs/2202.11766)
+
+[12] Quantum natural language processing [https://discopy.readthedocs.io/en/main/notebooks.qnlp.html](https://discopy.readthedocs.io/en/main/notebooks.qnlp.html)
+
+[13] qnlp-experiment [https://discopy.readthedocs.io/en/main/notebooks/qnlp-experiment.html](https://discopy.readthedocs.io/en/main/notebooks/qnlp-experiment.html)
