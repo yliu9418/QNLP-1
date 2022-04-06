@@ -1,5 +1,7 @@
 # Quantum Natural Language Processing
 
+[![Github][(https://img.shields.io/badge/jaorduz-repos-blue)](https://github.com/jaorduz/)
+
 [license-badge]: https://img.shields.io/badge/License-CC-orange
 [license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
 [![CC License][license-badge]][license]
