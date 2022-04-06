@@ -4,7 +4,7 @@
 [license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
 [![CC License][license-badge]][license]
 
-[![PyPI downloads](https://github.com/jaorduz/QNLP)](https://github.com/jaorduz/QNLP)
+[![QNLP](https://img.shields.io/badge/downloads-QNLP-green)](https://github.com/jaorduz/QNLP)
 
 
 This repository contains information about NLP course, in particular, I share QNLP material, I hope 

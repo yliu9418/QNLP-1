@@ -23,9 +23,15 @@ you find useful for your careeers.
 
 The main goal in these sessions is to create a QNLP collaborative repository, therefore you should clone and work with Pull Request.
 
-# Example<a name="exam1"></a>
+# JO's Examples<a name="exam1"></a>
 
-This reposotory contains an example about ...
+This [folder](https://github.com/jaorduz/QNLP/tree/main/NB) contains examples and more information about 
+QNLP, the main idea is that you find some basic tools to implement QNLP in your next project. I would like to 
+implement more examples and exercises if you are interested, let me know, please.
+
+Check it out!
+
+
 
 
 
