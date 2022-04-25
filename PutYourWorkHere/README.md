@@ -12,7 +12,7 @@ you find useful for your careeers.
 
 ## Contents
 1. [Purpose](#purpose)
-1. [Example 1](#exam1)
+1. [1 My example: JO's Examples](#exam1)
 1. [Example 1](#exam1)
 1. [Example 1](#exam1)
 1. [Example 1](#exam1)
