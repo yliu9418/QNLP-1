@@ -13,7 +13,7 @@ you find useful for your careeers.
 ## Contents
 1. [Purpose](#purpose)
 1. [1 My example: JO's Examples](#exam1)
-1. [Example 1](#exam1)
+1. [Example of Swapnil Saha and Razwan Ahmed Tanvir](#exam2)
 1. [Example 1](#exam1)
 1. [Example 1](#exam1)
 
@@ -32,6 +32,9 @@ implement more examples and exercises if you are interested, let me know, please
 Check it out!
 
 
+# Hello World in QNLP: Swapnil's and Tanvir's Examples<a name="exam2"></a>
+
+We modified example 6 and put "Hello World" in example sentence to see the output.
 
 
 
