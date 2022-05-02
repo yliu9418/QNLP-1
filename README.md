@@ -24,7 +24,7 @@ This repository contains information about NLP course, in particular, I share QN
     - **Quantum NLP**: from example_5 to  example_7
 1. Select only one notebook.
 1. Create another version where you modify the parameters.
-1. Modify any parameters in the selected NB, at least, three.
+1. Modify any parameters in the selected NB, at least, two.
 1. Obtain different quantum circuits.
 1. Discuss your results after changing those parameters.
 1. Describe the elements in the circuits. E.g. number of qbits, gates and name of the gates.
