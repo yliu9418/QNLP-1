@@ -14,7 +14,23 @@ This repository contains information about NLP course, in particular, I share QN
 1. [1 Our example: MS's Examples](#Example 06)
 1. [References](#references)
 
+ main
+# Instructions<a name="instructions"></a>
 
+1. Read this readme.md
+1. Check a notebook from **notebook** folder where you find
+    - **Classical NLP**: from example_1 to  example_4
+    - **Quantum NLP**: from example_5 to  example_7
+1. Select only one notebook.
+1. Create another version where you modify the parameters.
+1. Modify any parameters in the selected NB, at least, two.
+1. Obtain different quantum circuits.
+1. Discuss your results after changing those parameters.
+1. Describe the elements in the circuits. E.g. number of qbits, gates and name of the gates.
+1. Submit your final report about your analysis in the previous step in Canvas.
+1. **3 Extra points** choose an article from any online news paper, and use a qiskit (tool from IBM) function to obtain the frequency words.
+
+main
 ## Purpose
 
 The main goal in these sessions is to see the change in circuit with model parameter changing
