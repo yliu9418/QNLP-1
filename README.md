@@ -10,12 +10,11 @@ This repository contains information about NLP course, in particular, I share QN
 *by: Javier Orduz*
 
 ## Contents
-1. [Instructions](#instructions)
-1. [Introduction](#intro)
-1. [Implementation](#implementation)
+1. [Pupose](#purpose)
+1. [1 Our example: MS's Examples](#Example 06)
 1. [References](#references)
 
-
+ main
 # Instructions<a name="instructions"></a>
 
 1. Read this readme.md
@@ -31,58 +30,13 @@ This repository contains information about NLP course, in particular, I share QN
 1. Submit your final report about your analysis in the previous step in Canvas.
 1. **3 Extra points** choose an article from any online news paper, and use a qiskit (tool from IBM) function to obtain the frequency words.
 
-
+main
 ## Purpose
 
-The main goal in these sessions is to create a QNLP collaborative repository, therefore you should clone and work with Pull Request.
+The main goal in these sessions is to see the change in circuit with model parameter changing
 
-# Introduction<a name="intro"></a>
-
-
-
-Quantum computing is an interesting field to work. It is an area with some applications and it can be powerful if it is combined with Machine Learning area.
-Recently, we can explore applications on several topics such as computer vision, cybersecurity, economy, finance, science and others.
-In particular, this repository is to create an interesting and repository on QNLP to help your career on the next generation of scientists.
-
-
-Consider this a recent topic and it very probably you have a lot questions without solve, but don't worry, it is part to be a scientist.
-
-This material is created by different authors, therefore you will be sure about the source if you find 
-any detail, please, let me know and I will fix it.
-
-There are some concepts from quantum computing what you probably don't know, 
-it is ok, I will share with you references, papers, and books to read, but 
-consider that on NLP, quantum computing topics are out of the scope of the course.
-
-To check quantum computing concepts, go to Nielsen and Chuang book [[1]](#references); to know how parameterized in quantum circuits, and Circuit Ansatz [[2]](#references), some QNLP tools can be found in ref. [[3]](#references)
-if you want to know more about text structure [[4]](#references), 
-
-## Material
-
-I will be using material created by different authors, so here you find the links
-
-- Gogioso, S. [Doing QNLP](https://drive.google.com/file/d/1W6hRgwErCKVdE0LCXOn8r7ND6HtDsTXV/view)
-- Luongo, A. and Bellante, A. [Quantum Algorithms for QNLP](https://drive.google.com/file/d/1GVF5TIXwbZmD0u2uRgnacuQ1t2Iyd0S8/view)
-- Meichanetzidis, K. [QNLP implementation](https://drive.google.com/file/d/1Sw7IFM2mmZcIB9lp5jqweH7hdxRGsVOj/view)
-
-Consider those links don't depend on me, those can be broken but I can not do anything.
-
-
-
-# Implementation: assignment<a name="instructions"></a>
-
-1. Create your Notebook into the **PutYourWorkHere** folder, and try to explain every step (as a tutorial).
-    - You can use one notebook from NB folder 
-Don't forget to write your name and your contributor names. You can convert your NB to HTML or anyother format (pandoc).
-I share some websites with information (some references [[12, 13]](#references)), you can use but be creative.
-
-
-
-- Use readme.md into the examples folder to provide a summary.
-- Use Pull Request to maintain this repository with the last version, when you send the PR, put my user name (jaorduz) to approve the work.
-This is a link to know how to work with PR [Pull Request's (A)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), [Pull Request's (B)](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github), and [ISSUES](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request).
-
-
+# <a name="Our Example"></a>
+We experimented with example 6. We changed the sentence at first to see the change. Then we increased sentence length and finally we experimented with number of layers.
 
 # References<a name="references"></a>
 
