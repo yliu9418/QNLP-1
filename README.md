@@ -11,7 +11,7 @@ This repository contains information about NLP course, in particular, I share QN
 
 ## Contents
 1. [Pupose](#purpose)
-1. [1 Our example: MS's Examples](#Example 06)
+<!--1. [1 Our example: MS's Examples](#Example 06)-->
 1. [References](#references)
 
  main
