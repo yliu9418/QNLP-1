@@ -4,7 +4,7 @@
 [![CC License][license-badge]][license]
 [![QNLP](https://img.shields.io/badge/downloads-QNLP-green)](https://github.com/jaorduz/QNLP)
 [![Github](https://img.shields.io/badge/jaorduz-repos-blue)](https://github.com/jaorduz/)
-![Follow @jaorduc](https://img.shields.io/twitter/follow/jaorduc?style=social)
+![Follow @jaorduc](https://img.shields.io/twitter/follow/jaorduc?label=follow&logo=twitter&logoColor=lkj&style=plastic)
 
 This repository contains information about NLP course, in particular, I share QNLP material, I hope you find useful for your careeers.
 
