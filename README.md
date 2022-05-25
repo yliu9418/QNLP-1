@@ -15,7 +15,11 @@ This repository contains information about NLP course, in particular, I share QN
 <!--1. [1 Our example: MS's Examples](#Example 06)-->
 1. [References](#references)
 
- main
+ 
+This repository contains information from different sources, 
+and contributors.
+
+
 # Instructions<a name="instructions"></a>
 
 1. Read this readme.md
